@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+}
+
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: dimgrey;
+    font-weight: bolder;
+    text-decoration: underline;
+    margin: auto;
+    width: 30%;
+}
+
+section h2 {
+    font-family: monospace;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 1%;
+    text-decoration: underline;
+}
+
+section p {
+    color: cadetblue;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
