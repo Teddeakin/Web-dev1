@@ -1,0 +1,14 @@
+body {
+    background-color: grey;
+}
+
+main {
+    background-color: white;
+    width: 600px;
+    padding: 20px;
+    margin: 1rem;
+}
+
+div {
+    font-size: 0px;
+}

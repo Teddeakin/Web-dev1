@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+/* Each box should have a big white letter inside */
+/* Add stylings here that you want to affect all the boxes */
+.box-long {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    
+}
+
+.box {
+    text-align: center; 
+    color: white;
+    font-size: 60px;
+    width: 33%;
+    display: inline-block;
+}
+/* Each box has a different letter and colour to help tell it apart */
+/* Add stylings here that you want to affect specific boxes */
+#A {
+    background-color: dodgerblue;
+    width: 33%;
+}
+
+
+#B {
+    background-color: crimson;
+
+}
+
+#C {
+    background-color: lime;
+}
+
+#D {
+    background-color: gold;
+    display: block;
+    
+}

@@ -1,0 +1,16 @@
+main {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.links {
+    display: inline;
+}
+
+a {
+    border: 2px solid dodgerblue;
+    width: 25%;
+    padding: 0.5em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}

@@ -1,0 +1,21 @@
+main {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.ignore {
+    color: gray;
+    font-style: italic;
+}
+
+.img1 {
+    float: left;
+}
+
+.img2 {
+    float: right;
+}
+
+div {
+    clear: both;
+}
